@@ -1,0 +1,2 @@
+#!/git/bash
+egrep -V "bin" /etc/passwd
